@@ -22,4 +22,21 @@ We will comply with all applicable laws and regulations regarding data deletion 
 We will periodically review and update our data deletion instructions to ensure they remain effective and compliant with Facebook's Platform Policies.
 
 <script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
-<script src="https://mediafiles.botpress.cloud/1ed92ad7-53e3-43fe-b15f-5879b2e6800a/webchat/config.js" defer></script>
+<script>
+  window.botpressWebChat.init({
+      "composerPlaceholder": "Chat with bot",
+      "botConversationDescription": "This chatbot was built surprisingly fast with Botpress",
+      "botId": "1ed92ad7-53e3-43fe-b15f-5879b2e6800a",
+      "hostUrl": "https://cdn.botpress.cloud/webchat/v1",
+      "messagingUrl": "https://messaging.botpress.cloud",
+      "clientId": "1ed92ad7-53e3-43fe-b15f-5879b2e6800a",
+      "webhookId": "3f277220-efd6-4eb5-a82b-ba649c5acd54",
+      "lazySocket": true,
+      "themeName": "prism",
+      "frontendVersion": "v1",
+      "showPoweredBy": true,
+      "theme": "prism",
+      "themeColor": "#2563eb",
+      "allowedOrigins": []
+  });
+</script>
