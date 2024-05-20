@@ -20,3 +20,6 @@ Additional Information:
 
 We will comply with all applicable laws and regulations regarding data deletion and protection.
 We will periodically review and update our data deletion instructions to ensure they remain effective and compliant with Facebook's Platform Policies.
+
+<script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
+<script src="https://mediafiles.botpress.cloud/1ed92ad7-53e3-43fe-b15f-5879b2e6800a/webchat/config.js" defer></script>
